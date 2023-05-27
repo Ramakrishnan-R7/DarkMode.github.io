@@ -1,0 +1,60 @@
+
+      body {
+         color: black;
+         background-color: rgb(241, 241, 241);
+         text-align: center;
+         justify-content: center;
+      }
+      .dark-theme {
+         color: white;
+         background-color: rgb(26, 20, 20);
+      }
+      button {
+         width: 13rem;
+         height: 2rem;
+         font-size: 1.5rem;
+         background-color: grey;
+         border: none;
+         border-radius: 12px;
+      }
+      p {
+         font-size: 1.2rem;
+      }
+      body {
+         font-family: Arial, sans-serif;
+         margin: 0;
+         padding: 0;
+       }
+       
+       h1 {
+         background-color: #006699;
+         text-align: center;
+         margin-top: 50px;
+         font-size: 36px;
+       }
+       
+       table {
+         border-collapse: separate;
+         margin: 50px auto;
+         max-width: 600px;
+       }
+       
+       th, td {
+         padding: 10px;
+         text-align: left;
+       }
+       
+       th {
+         background-color: #006699;
+         color: #fff;
+         font-size: 24px;
+       }
+       
+       td {
+         border-bottom: 1px solid #ccc;
+         font-size: 20px;
+       }
+       
+       tr:hover {
+         background-color:grey;
+       }
